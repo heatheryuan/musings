@@ -17,23 +17,26 @@ const defaultOptions = {
     return node
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabetically
-    if ((!a.file && !b.file) || (a.file && b.file)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
-        numeric: true,
-        sensitivity: "base",
-      })
+    const folderOrder = ["me", "evergreen", "recommendations", "reviews", "recipes", "rabbit hole"]
+
+    if (!a.file && !b.file) {
+      return folderOrder.indexOf(a.name) - folderOrder.indexOf(b.name) || 
+             a.displayName.localeCompare(b.displayName, undefined, 
+              { numeric: true, sensitivity: "base" })
     }
 
-    if (a.file && !b.file) {
-      return 1
-    } else {
-      return -1
-    }
+    return a.file ? -1 : 1
   },
-  filterFn: (node) => node.name !== "tags",
+  filterFn: (node) => {
+    if (node.name === "tags") {
+      return false;
+    }
+
+    const pathParts = node.file?.slug?.split('/') ?? []
+
+    // include if node is folder, root file, or in folder
+    return !node.file || node.depth === 1 || pathParts.length === node.depth
+  },
   order: ["filter", "map", "sort"],
 } satisfies Options
 
