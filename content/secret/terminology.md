@@ -4,7 +4,7 @@ hidden: true
 ---
 ^viral
 
-**Viral** in the context of my content is anything over 20k views in a short period of time. I'm not a famous content creator (yet) so I take these wins as I get them
+**Viral** in the context of my content is anything over 20k views in a short period of time. I'm not actually famous by any means so I give myself these little wins when I get them.
 
 ^soul-friends
 
