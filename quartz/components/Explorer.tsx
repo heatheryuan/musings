@@ -17,7 +17,7 @@ const defaultOptions = {
     return node
   },
   sortFn: (a, b) => {
-    const folderOrder = ["me", "evergreen", "recommendations", "reviews", "recipes", "rabbit hole"]
+    const folderOrder = ["me", "retros", "evergreen", "opinions", "recipes", "brain"]
 
     if (!a.file && !b.file) {
       return folderOrder.indexOf(a.name) - folderOrder.indexOf(b.name) || 
@@ -28,7 +28,7 @@ const defaultOptions = {
     return a.file ? -1 : 1
   },
   filterFn: (node) => {
-    if (node.name === "tags") {
+    if (node.name === "tags" || node.name === "secret") {
       return false;
     }
 

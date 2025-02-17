@@ -1,8 +1,10 @@
 ---
 title: Defining Significance
 ---
-_Originally posted on July 27, 2024 on my Substack, [inward expressions](https://heatheryuan.substack.com/)._
+_Originally posted on July 27, 2024 on my (retired) Substack, [inward expressions](https://heatheryuan.substack.com/)._
 ***
+
+![[secret/assets/defining-significance.jpeg]]
 
 So I graduated college (woohoo!). As I wait for my job to start in a few weeks, I’ve been experiencing a foreign and somewhat uncomfortable lack of responsibilities – no school, no work or job hunting, just sheer time. Being in this state with this abundance of time has begged the questions: what does it mean to use my time meaningfully and how does that fit into my overall model of a fulfilling life?
 
