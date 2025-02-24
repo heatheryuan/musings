@@ -1,5 +1,5 @@
 ---
-title: retros
+title: why retros?
 ---
 
 Every hangout always starts with some variation of "so what have you been up to lately?", and every time I find myself frantically flipping through the past week trying to conjur up some memory of anything interesting I did. And I do find this troubling to some extent. Not just for the awkward silence after the customary question, but also because how am I supposed to build upon my past lessons if I can't even remember what I made for dinner last night? I tried daily journaling, but I find it too granular to ever want to look back through it. And I still need to figure out what to update my friends on damn it!
