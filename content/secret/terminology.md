@@ -1,6 +1,8 @@
 ---
 title: terminology
 hidden: true
+hideDate: true
+hideReadingTime: true
 ---
 ^viral
 
