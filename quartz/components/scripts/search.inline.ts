@@ -465,7 +465,6 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   searchBar?.addEventListener("input", onType)
   window.addCleanup(() => searchBar?.removeEventListener("input", onType))
 
-  registerEscapeHandler(container, hideSearch)
   await fillDocument(data)
 })
 
