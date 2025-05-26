@@ -65,8 +65,6 @@ class MenuModalSystem {
       try {
         this.menuData[menuName] = {
           name: this.formatMenuName(menuName),
-          imagePath: `/secret/assets/cheddar/menus/${menuName}.png`,
-          folderPath: `/secret/assets/cheddar/${menuName}/`,
           photos: await this.loadPhotosFromFolder(menuName),
           previews: await this.loadPreviewsFromFolder(menuName)
           // description: await this.loadMarkdownDescription(menuName)
@@ -79,7 +77,7 @@ class MenuModalSystem {
 
   async loadPhotosFromFolder(menuName) {
     if (this.photoMap[menuName]) {
-      return this.photoMap[menuName]["photos"].map(photo => `/secret/assets/cheddar/${menuName}/${photo}`);
+      return this.photoMap[menuName]["photos"].map(photo => `content/secret/assets/cheddar/${menuName}/${photo}`);
     }
     
     return [];
@@ -87,7 +85,7 @@ class MenuModalSystem {
 
   async loadPreviewsFromFolder(menuName) {
     if (this.photoMap[menuName]) {
-      return this.photoMap[menuName]["previews"].map(photo => `/secret/assets/cheddar/${menuName}/previews/${photo}`);
+      return this.photoMap[menuName]["previews"].map(photo => `content/secret/assets/cheddar/${menuName}/previews/${photo}`);
     }
     
     return [];
