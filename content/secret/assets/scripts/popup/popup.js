@@ -4,39 +4,39 @@ class MenuModalSystem {
     this.photoMap = {
       'chinese-fast-food': {
         photos: ['lychee-almond-milkshake.jpg', 'five-spice-french-fries.JPEG', 'hong-shao-rou-burger.jpg'],
-        previews: ['shake.png', 'fries.png', 'burger.png']
+        previews: ['shake.PNG', 'fries.PNG', 'burger.PNG']
       },
       'thai-italian': {
         photos: ['full-menu.jpeg', 'red-curry-focaccia.jpeg', 'pasta.jpeg', 'mango-coconut-panna-cotta.jpeg'],
-        previews: ['focaccia.png', 'pasta.png', 'mango.png']
+        previews: ['focaccia.PNG', 'pasta.PNG', 'mango.PNG']
       },
       'japanese-mexican': {
         photos: [],
         previews: []
       },
       'mezze-brunch': {
-        photos: ["za'atar-hashbrowns.jpg", 'shakshuka-eggs-benedict.jpg', 'baklava-french-toast.jpg', 'med-brunch-1.jpg', 'med-brunch-2.jpg'],
-        previews: ['hashbrown.png', 'egg.png', 'toast.png']
+        photos: ["za'atar-hashbrowns.jpg", 'shakshuka-eggs-benedict.JPG', 'baklava-french-toast.JPG', 'med-brunch-1.JPG', 'med-brunch-2.JPG'],
+        previews: ['hashbrown.PNG', 'egg.PNG', 'toast.PNG']
       },
       'indian-texmex': {
         photos: ['chaat-nachos.jpeg', 'mango-cardamom-flan.jpeg', 'mango-cardamom-flan-2.jpeg'],
-        previews: ['nachos.png', 'flan.png']
+        previews: ['nachos.PNG', 'flan.PNG']
       },
       'korean-southern': {
         photos: ['corn-cheese-mac.jpeg', 'gochujang-ribs.jpeg', 'injeolmi-banana-pudding.jpeg'],
-        previews: ['mac.png', 'ribs.png', 'pudding.png']
+        previews: ['mac.PNG', 'ribs.PNG', 'pudding.PNG']
       },
       'spanish-japanese': {
         photos: ['tortilla-espanola.jpeg', 'dashi-paella.jpeg', 'dashi-paella-2.jpeg'],
-        previews: ['tortilla.png', 'paella.png']
+        previews: ['tortilla.PNG', 'paella.PNG']
       },
       'mediterranean-viet': {
         photos: ['spring-roll.JPG', 'souvlaki-plate.JPG', 'med-che-thai.JPG', 'med-viet-3.jpg', 'med-viet-5.jpg', 'med-viet-2.jpg', 'med-viet-4.jpg'],
-        previews: ['roll.png', 'plate.png', 'chethai.png']
+        previews: ['roll.PNG', 'plate.PNG', 'chethai.PNG']
       },
       'french-thai': {
         photos: ['nam-tok-tartine.jpeg', 'red-curry-ratatouille-full.jpeg', 'red-curry-ratatouille.jpeg', 'banana-tart-tatin.jpeg'], 
-        previews: ['tartine.png', 'ratatouille.png', 'tart.png']
+        previews: ['tartine.PNG', 'ratatouille.PNG', 'tart.PNG']
       }
     };
     this.init();
