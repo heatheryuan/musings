@@ -31,7 +31,7 @@ class MenuModalSystem {
         previews: ['tortilla.PNG', 'paella.PNG']
       },
       'mediterranean-viet': {
-        photos: ['spring-roll.JPG', 'souvlaki-plate.JPG', 'med-che-thai.JPG', 'med-viet-3.jpg', 'med-viet-5.jpg', 'med-viet-2.jpg', 'med-viet-4.jpg'],
+        photos: ['spring-roll.JPG', 'souvlaki-plate.JPG', 'med-che-thai.JPG', 'med-viet-3.JPG', 'med-viet-5.JPG', 'med-viet-2.jpg', 'med-viet-4.JPG'],
         previews: ['roll.PNG', 'plate.PNG', 'chethai.PNG']
       },
       'french-thai': {
