@@ -65,6 +65,7 @@ class MenuModalSystem {
       try {
         this.menuData[menuName] = {
           name: this.formatMenuName(menuName),
+          imagePath: `../secret/assets/cheddar/menus/${menuName}.png`,
           photos: await this.loadPhotosFromFolder(menuName),
           previews: await this.loadPreviewsFromFolder(menuName)
           // description: await this.loadMarkdownDescription(menuName)
