@@ -1,6 +1,7 @@
 ---
 title: dinner at cheddar's - the fusion of flavors and friends
 ---
+<link rel="stylesheet" href="/secret/assets/scripts/popup/popup.css">
 <div style="text-align:center">
     <img src="secret/assets/cheddar/cheddar.jpeg" alt="Wall of Cheddar menus" />
 </div>
@@ -32,8 +33,6 @@ Roughly speaking, this is the current format of Cheddar in its entirety:
 7. We send a text blast a few days later thanking them for their visit, to remind them to fill out the form/donate, and send any pictures they've taken (we're terrible at taking pictures during the event so mostly rely on guests for documentation)
 
 ## Past Dinners
-
-<link rel="stylesheet" href="/secret/assets/scripts/popup/popup.css">
 
 <div id="menuContainer" class="menu-grid"></div>
 
