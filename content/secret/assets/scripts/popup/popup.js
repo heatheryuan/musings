@@ -77,7 +77,7 @@ class MenuModalSystem {
 
   async loadPhotosFromFolder(menuName) {
     if (this.photoMap[menuName]) {
-      return this.photoMap[menuName]["photos"].map(photo => `secret/assets/cheddar/${menuName}/${photo}`);
+      return this.photoMap[menuName]["photos"].map(photo => `../secret/assets/cheddar/${menuName}/${photo}`);
     }
     
     return [];
@@ -85,7 +85,7 @@ class MenuModalSystem {
 
   async loadPreviewsFromFolder(menuName) {
     if (this.photoMap[menuName]) {
-      return this.photoMap[menuName]["previews"].map(photo => `secret/assets/cheddar/${menuName}/previews/${photo}`);
+      return this.photoMap[menuName]["previews"].map(photo => `../secret/assets/cheddar/${menuName}/previews/${photo}`);
     }
     
     return [];
