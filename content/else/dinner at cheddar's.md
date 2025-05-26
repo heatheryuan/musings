@@ -1,7 +1,7 @@
 ---
 title: dinner at cheddar's - the fusion of flavors and friends
 ---
-<link rel="stylesheet" href="/secret/assets/scripts/popup/popup.css">
+<link rel="stylesheet" href="../secret/assets/scripts/popup/popup.css">
 <div style="text-align:center">
     <img src="secret/assets/cheddar/cheddar.jpeg" alt="Wall of Cheddar menus" />
 </div>
@@ -85,4 +85,4 @@ The structure of Cheddar today has gone through many improvements throughout the
 * **Printed menu**
 	* We (aka I) really wanted to design printed menus for the dinners. We considered doing a QR code digital menu, but I felt that the need to pull out your phone during the dinner took away from our ability to be present with each other. Also, it's a cute keepsake and table decor.
 
-<script src="/secret/assets/scripts/popup/popup.js"></script>
+<script src="../secret/assets/scripts/popup/popup.js"></script>
