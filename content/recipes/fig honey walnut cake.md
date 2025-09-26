@@ -20,7 +20,27 @@ Besides finding my perfect Cake Picnic cake, it's also just an excuse for me to 
 
 Follow along my journey to find my Cake Picnic cake on [TikTok](https://www.tiktok.com/@heatheryuann)! There will be many more cakes to come :)
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@heatheryuann/video/7553747875755330829" data-video-id="7553747875755330829" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@heatheryuann" href="https://www.tiktok.com/@heatheryuann?refer=embed">@heatheryuann</a> this will be a hectic few weeks … recipe + notes will be posted later this week! <a title="cake" target="_blank" href="https://www.tiktok.com/tag/cake?refer=embed">#cake</a> <a title="cakepicnic" target="_blank" href="https://www.tiktok.com/tag/cakepicnic?refer=embed">#cakepicnic</a> <a title="baking" target="_blank" href="https://www.tiktok.com/tag/baking?refer=embed">#baking</a> <a target="_blank" title="♬ original sound - nxghtxcore.audios👁✨" href="https://www.tiktok.com/music/original-sound-7154273179626736427?refer=embed">♬ original sound - nxghtxcore.audios👁✨</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<style>
+.tiktok-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  justify-items: center;
+}
+
+@media (max-width: 768px) {
+  .tiktok-container {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<div class="tiktok-container">
+  <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@heatheryuann/video/7553747875755330829" data-video-id="7553747875755330829" style="max-width: 350px;min-width: 325px;" > <section> <a target="_blank" title="@heatheryuann" href="https://www.tiktok.com/@heatheryuann?refer=embed">@heatheryuann</a> this will be a hectic few weeks … recipe + notes will be posted later this week! <a title="cake" target="_blank" href="https://www.tiktok.com/tag/cake?refer=embed">#cake</a> <a title="cakepicnic" target="_blank" href="https://www.tiktok.com/tag/cakepicnic?refer=embed">#cakepicnic</a> <a title="baking" target="_blank" href="https://www.tiktok.com/tag/baking?refer=embed">#baking</a> <a target="_blank" title="♬ original sound - nxghtxcore.audios👁✨" href="https://www.tiktok.com/music/original-sound-7154273179626736427?refer=embed">♬ original sound - nxghtxcore.audios👁✨</a> </section> </blockquote>
+  <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@heatheryuann/video/7554477569500908855" data-video-id="7554477569500908855" style="max-width: 350px;min-width: 325px;" > <section> <a target="_blank" title="@heatheryuann" href="https://www.tiktok.com/@heatheryuann?refer=embed">@heatheryuann</a> can you guess what next week's cake will be? <a title="cake" target="_blank" href="https://www.tiktok.com/tag/cake?refer=embed">#cake</a> <a title="cakepicnic" target="_blank" href="https://www.tiktok.com/tag/cakepicnic?refer=embed">#cakepicnic</a> <a title="baking" target="_blank" href="https://www.tiktok.com/tag/baking?refer=embed">#baking</a> <a target="_blank" title="♬ som original - Andressa Rassam" href="https://www.tiktok.com/music/som-original-7370121158139939589?refer=embed">♬ som original - Andressa Rassam</a> </section> </blockquote>
+</div>
+
+<script async src="https://www.tiktok.com/embed.js"></script>
 
 Now on to the recipe: I must disclaim that much of the way I cook is by taking recipes from a variety of different sources and mushing them together into some other creation. I would love to recipe develop from scratch one day, but for now I'm abstracting that responsibility to all the other lovely internet chefs. I will put my own notes in the margins though for things I would personally change if I were iterating upon these recipes myself. If you happen to try making this cake and apply my notes, please let me know how it turns out in my TikTok comments!
 
