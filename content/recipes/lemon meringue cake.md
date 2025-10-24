@@ -3,14 +3,14 @@ title: lemon meringue cake
 ---
 
 <div style="text-align:center">
-    <img src="secret/assets/recipes/lemon_meringue_cake/slice.jpg" width="500" alt="Lemon Meringue Cake" />
+    <img src="secret/assets/recipes/lemon_meringue_cake/slice.jpg" width="800" alt="Lemon Meringue Cake" />
 </div>
 
 Welcome back to week 2 of finding the perfect cake for [Cake Picnic](https://www.cakepicnictour.com/)! It's been so warm and sunny in SF lately, it barely feels like fall, so this bright and zesty cake feels very fitting. To be honest, I have no idea where this idea came from and I suspect it was probably birthed out of me wanting an excuse to purchase and play with a blowtorch. Either way, I'm quite pleased with the way it turned out and I hope you'll enjoy it too!
 
 <div style="text-align:center">
-    <img src="secret/assets/recipes/lemon_meringue_cake/cross_section.jpg" width="500" alt="Lemon Meringue Cake" />
-    <img src="secret/assets/recipes/lemon_meringue_cake/top.jpg" width="500" alt="Lemon Meringue Cake" />
+    <img src="secret/assets/recipes/lemon_meringue_cake/cross_section.jpg" width="600" alt="Lemon Meringue Cake" />
+    <img src="secret/assets/recipes/lemon_meringue_cake/top.jpg" width="600" alt="Lemon Meringue Cake" />
 </div>
 
 Follow along my journey to find my Cake Picnic cake on [TikTok](https://www.tiktok.com/@heatheryuann)! There will be many more cakes to come :)
