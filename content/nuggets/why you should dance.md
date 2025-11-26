@@ -39,9 +39,9 @@ Obviously, I'm biased in feeling like dance is the best antidote to covering the
 
 5. It's fun!
 
-It’s a form of exercise that requires little to no upfront cost to start, but covers many of the “axes of fitness”. If anything, it might cover cardio enough to make running less important (but of course, no one is ever telling you to exercise *less*). The only area where I think dance needs intentional supplementation is strength training. While there's certainly strenghth involved in dance, it's limited to body weight and applied force/gravity. Weight-lifting is still the best way to push your strength and build real muscle.
+It’s a form of exercise that requires little to no upfront cost to start, but covers many of the “axes of fitness”. If anything, it might cover cardio enough to make running less important (but of course, no one is ever telling you to exercise *less*). The only area where I think dance needs intentional supplementation is strength training. While there's certainly strenghth involved in dance, it's limited to body weight and applied force/gravity. Weight-lifting is still the best way to push your strength and build real muscle, which is especially important for longevity given that as we age our muscle mass and ability to build it decrease exponentially.
 
-Most important for me, though, is that I love dancing. It's not just exercise to "meet my fitness quota of the day" - I'm in it for the love of the game.This is subjective, of course, and hugely colored by my history and affinity with dance. 
+Most important for me, though, is that I love dancing. It's not just exercise to "meet my fitness quota of the day" - I'm in it for the love of the game. This is subjective, of course, and hugely colored by my history and affinity with dance. 
 
 If dance is not your cup of tea, that's completely okay. What we're looking for are activities that cover the bases of fitness while feeling genuinely fun. Some good alternatives to dance would be:
 1. Pilates
