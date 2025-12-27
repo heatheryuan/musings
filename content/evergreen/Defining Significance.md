@@ -1,7 +1,7 @@
 ---
 title: Defining Significance
 ---
-_Originally posted on July 27, 2024 on my (retired) Substack, [inward expressions](https://heatheryuan.substack.com/)._
+_Originally posted on July 27, 2024 on my Substack, [unfolding creases](https://heatheryuan.substack.com/)._
 ***
 
 ![[secret/assets/defining-significance.jpeg]]

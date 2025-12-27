@@ -1,5 +1,6 @@
 ---
 title: feta crusted smashed broccoli with garlic cumin yogurt sauce
+date: 2025-05-26
 ---
 This recipe was entirely birthed [[../retros/021025-021625#^broccoli|by chance]] so the recipe is very approximate. Also feel free to follow along with my (chaotic) [TikTok](https://www.tiktok.com/t/ZT2DCc6bK/).
 

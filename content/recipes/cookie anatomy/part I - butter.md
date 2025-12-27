@@ -1,5 +1,6 @@
 ---
 title: part I - butter
+date: 2025-11-27
 ---
 <div style="text-align:center">
     <img src="secret/assets/recipes/cookie_anatomy/butter/dough_column_large.jpeg" width="600" alt="Dough Close-Up" />
