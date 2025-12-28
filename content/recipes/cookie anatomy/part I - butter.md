@@ -134,6 +134,6 @@ Next part: sugar.
 - [King Arthur Baking - The secret to fudgier cookies? It's all about the butter.](https://www.kingarthurbaking.com/blog/2022/04/19/how-to-make-fudgier-cookies-melted-butter)
 - [Eater - Why Is Butter Temperature So Important in Baking?](https://www.eater.com/23281193/best-butter-temperature-baking-cookies-pies-bread-brown-butter-usage)
 
-[^1]: I think the original blog may have been taken down, but I found this rewritten recipe and followed this instead. I chose to use Not Without Salt's recipe on a quick skim of [Pancake Princess's Best Chocolate Chip Cookie Bakeoff](Pancake Princess's Best Chocolate Chip Cookie Bakeoff) and a whim.
+[^1]: I think the original blog may have been taken down, but I found this rewritten recipe and followed this instead. I chose to use Not Without Salt's recipe on a quick skim of [Pancake Princess's Best Chocolate Chip Cookie Bakeoff](https://www.thepancakeprincess.com/best-chocolate-chip-cookie-bake-off/) and a whim.
 [^2]: I didn't have brown sugar or turbinado sugar, so I used white sugar + molasses. Upon reflection of using this recipe, I think I'd likely reduce the amount of sugar I used since it was a little sweet for me, but I might have also just converted it inaccurately.
 [^3]: This is a reduced amount from the original recipe because I wanted to analyze the cookie texture more and felt the chocolate would distract. If I were to make this again for experimenting, I'd reduce the chocolate even more to 3-4oz.
