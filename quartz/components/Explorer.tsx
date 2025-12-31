@@ -17,7 +17,7 @@ const defaultOptions = {
     return node
   },
   sortFn: (a, b) => {
-    const folderOrder = ["retros", "evergreen", "food", "reviews", "nuggets", "philosophy"]
+    const folderOrder = ["retros", "evergreen", "food", "reviews", "curated", "nuggets", "philosophy"]
 
     if (!a.file && !b.file) {
       return folderOrder.indexOf(a.name) - folderOrder.indexOf(b.name) || 
