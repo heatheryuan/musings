@@ -1,0 +1,3 @@
+Anaximander (610 – 546 BCE) was an ancient Greek philosopher under the Milesian School of thought with [[Thales]] and [[Anaximenes]].
+
+He believed the one ultimate substance of all things was **apeiron**, which translates to "boundless". It's seen as a formless, infinite substance, that can be built into other substances and broken down back to apeiron as needed. It also is the source of opposites such as hot/cold, wet/dry, etc).

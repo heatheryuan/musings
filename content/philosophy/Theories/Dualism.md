@@ -1,0 +1,3 @@
+Dualism, very generally, is the philosophical theory that there is a separation because the material and immaterial world. This is applied by various philosophers.
+
+For example, [[Plato]] was one of the fathers of dualism from his [[Plato#Theory of Forms|Theory of Forms]]. Later, we see [[René Descartes]] further the modern understanding of dualism, which is the separation of mind and reasoning from the physical sensations of the body.

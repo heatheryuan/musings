@@ -1,0 +1,5 @@
+Socrates (470 – 399 BCE) was an ancient Greek philosopher that fundamentally reshaped Western philosophy. At a time when natural philosopher was a big focus, Socrates shifted focus toward human life and ethics. He was a big proponent of "know thyself", encouraging people to look inward to identify the rightness of their thoughts and actions.
+
+He was not a big writer, and spent most of his time having debates with people. These debates were his way to understand himself and others better, encouraging a culture of reasoning and logic. You may be familiar with these discussions through the **Socratic method**. With all of this, he set the foundations for rationalistic thought, especially as it pertains to morality and ethics.
+
+Most of his teachings nowadays are immortalized by his more devoted student, [[Plato]].

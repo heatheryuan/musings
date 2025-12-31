@@ -1,0 +1,1 @@
+The world is made of particles that cannot be broken down any further, but can be combined to create all things, aka atoms.

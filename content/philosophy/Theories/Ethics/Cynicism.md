@@ -1,0 +1,3 @@
+Cynicism is an ethical school of thought during the [[History of Western Philosophy#Hellenistic Period (~323 BCE–200 CE)|Hellenistic Period]]. It was originally seeded by Antisthenes and acted out by Diogenes, who famously lived in a ceramic jar on the streets of Athens. The basis of cynicism is that humans are just reasoning animals, and that reaching the most virtuous, ethical life is to live according to your nature, independent of societal constraints. Cynics often lived in poverty, but were supposedly free.
+
+The modern understanding of the word *cynic* has shifted from its original meaning to define someone who is skeptical of human and social good.

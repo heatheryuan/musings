@@ -1,0 +1,7 @@
+Thales is an ancient Greek philosopher, mathematician, and astronomer often touted as the "first philosopher" (in fact, the first of many) who lived from around 626 - 548 BCE.
+
+He is known as the first to question divine explanations of natural phenomenon, instead using rational explanations. This set the stage for [[Natural Philosophy]] and marked a huge shift toward rational thinking and discussion that paved the way for future philosophers.
+
+He founded the [[Milesian School]], where some of his students went off the immortalize his theories and build upon them, such as [[Anaximander]] and [[Anaximenes]]. The Milesian School of thought was that all things are constructed from one ultimate substance, otherwise known as [[Milesian School|Material Monism]]. Thales theorized this substance was water, based on the observation that all living things seemed to depend on water whereas all dead things tended to be dry. He also theorized that Earth floats on water, and that this explains phenomenons such as earthquakes, which is when the Earth is rocked on the waves of the water.
+
+While he moved away from divine explanations of the world, he wasn't truly atheist. He still believed that all things had a soul or god within them.

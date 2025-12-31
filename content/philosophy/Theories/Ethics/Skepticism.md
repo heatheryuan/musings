@@ -1,0 +1,1 @@
+Skepticism is an ethical school of thought during the [[History of Western Philosophy#Hellenistic Period (~323 BCE–200 CE)|Hellenistic Period]]. Fundamentally, skepticism questions knowledge itself. The motto is that one cannot truly know anything, and therefore should suspend judgement in order to achieve an untroubled mind.

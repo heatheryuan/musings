@@ -1,0 +1,3 @@
+Pythagoras (570 – 495 BC), aka the Triangle Guy, was an ancient Greek philosopher famous for his contributions to mathematics. He planted the seed for for [[Idealism]], which is the representation of things in their most perfect and abstract forms over practical ones and serves as a foundation for Plato's theories of ideas. He was also among the first to conduct true mathematical proofs.
+
+* Apparently very religious/a cult leader

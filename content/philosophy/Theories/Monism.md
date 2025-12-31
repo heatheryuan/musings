@@ -1,0 +1,1 @@
+Monism is the philosophical theory that all of reality is ultimately one, whether that be a single material or principle.
