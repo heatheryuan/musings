@@ -1,8 +1,8 @@
 ---
-title: Thank you 2025
+title: thank you 2025
 date: 2025-12-31
 ---
-I didn't set any new years resolutions for 2025 - this was exactly what I needed at that time. For most of my life, I was the most Type A person I knew. Everything came down to to-do lists, goal setting, and raw work ethic. But I also found myself with anxiety, shame, and a lack of direction. I had no idea what I actually wanted when all I'd done my whole life was tell myself what I wanted, or more precisely, what I *should* want. This has been the year of exploration and freedom for me. The scariest thing I did was to let myself **not know**. I had no idea what I would spend my time doing or what I would enjoy, but I wanted to free myself from obligation and finally let myself listen to myself again.
+I didn't set any new years resolutions for 2025 - this was exactly what I needed at that time. For most of my life, I was the most Type A person I knew. Everything came down to to-do lists, goal setting, and raw work ethic. But I also found myself with anxiety, shame, and a lack of direction. I had no idea what I actually wanted when all I'd done my whole life was tell myself what I wanted, or more precisely, what I *should* want. This has been the year of exploration and freedom for me. The scariest thing I did was to let myself **not know**. I had no idea what I would spend my time doing or what I would enjoy, but I wanted to free myself from obligation and finally let myself listen to myself again. My motto for this year was essentially *[[catchphrases to live by|fuck around and find out]]*.
 
 Now standing at the cusp of 2026, I feel as though I've developed a deeper sense of trust in myself. I still feel a bit lost, still a bit like I need to be doing more - maybe these feelings never go away - but I also feel more at peace in myself and my future. I've also learned so much about myself. When I attempted to let myself have the space to flourish, it felt like I was able to coax out the beautiful parts of me that had been hiding away.
 
