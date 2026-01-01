@@ -1,3 +1,7 @@
+---
+title: fit
+date: 2025-12-11
+---
 I spend a lot of time pondering what I'm supposed to be doing with my life (as a 24 year old often does), and it repeatedly comes to my attention that not only do I not know, I **can't** know. So now what? I've resolved that while I can't prepare myself for something I don't know is coming, I can be in the best shape possible to adapt and grow from whatever does.
 
 A model that's been on my mind recently about this has been *fitness*. When I think about how fitness is usually understood in the physical health sense, I notice it's often used to describe a state of being physically resilient and capable. Fit, according to Oxford English, is 
