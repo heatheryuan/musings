@@ -1,8 +1,8 @@
-![[rolling4.jpeg]]
+![[secret/assets/rolling4.jpeg]]
 
-![[secret/assets/rolling1.jpg]]
+![[secret/assets/rolling1.jpeg]]
 
-![[secret/assets/rolling2.jpg]]
+![[secret/assets/rolling2.jpeg]]
 
-![[secret/assets/rolling3.jpg]]
+![[secret/assets/rolling3.jpeg]]
 ![[rolling_stone.png]]
