@@ -14,15 +14,17 @@ I'm thinking back through 2025 and I'm just now realizing ... holy shit, so much
 * Hosted 10 iterations of [[dinner at cheddar's|Cheddar]], me and my partner's dinner parties
 * Visited Chicago to see a dear old friend who I haven't seen since high school
 * Hosted silly ice cream events
-	* Rolled ice cream - we got rolled ice cream machines, made menus and custom cups, and had friends come over to roll their own ice creams
-	* Garden Creamery at Home - we recreated some fun flavors from [Garden Creamery](https://gardencreamery.com/home/), an iconic SF creamery, and made some of our own
+	* [[Rolling Stone Creamery|Rolled ice cream]] - we got rolled ice cream machines, made menus and custom cups, and had friends come over to roll their own ice creams
+	* [[secret/assets/Cream in My Garden|Garden Creamery at home]] - we recreated some fun flavors from [Garden Creamery](https://gardencreamery.com/home/), an iconic SF creamery, and made some of our own
 * Moved to SF
 * Taught a dance class
 * Cake Picnic Prep
 	* Researched, recipe developed, and baked 4 cakes every weekend leading up to Cake Picnic
 	* Hosted a cake tasting/cafe popup in my apartment each weekend to have my friends taste and rate each cake
-	* Created TikTok videos and wrote recipe blog posts for each cake
+	* Created TikTok videos and wrote recipe blog posts for each cake ([[fig honey walnut cake]], [[lemon meringue cake]], last 2 WIP)
 * Started taking more dance classes again
+* Had the most healing trip to Copenhagen and Ireland
+	* Reconnected with old friendships after a long time of healing, met new friends who made me laugh and feel at home instantly, sat with the vastness and beauty of the Irish landscape, and, importantly, ate cardamom buns every day in Copenhagen
 * Became interested in philosophy and history
 	* Read and reviewed [[sophie's world]]
 	* Started my notes archive on the [[History of Western Philosophy]]
