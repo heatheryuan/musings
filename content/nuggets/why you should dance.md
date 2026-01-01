@@ -1,9 +1,6 @@
 ---
 title: why you should dance
 ---
-
-*draft*
-
 I started dancing when I was 4 years old and was training pre-professionally until I graduated high school. I danced on various dance teams in college, and am now about 1.5 years out of college having danced the least in my life. I was able to very viscerally experience the degradation of my physical fitness over these past few years despite being relatively active elsewhere, weight-lifting and running. While there are many factors contributing to this, aging and working a sedentary desk job being only a few, I can't help but also believe that the fading of dance from my life is also a non-negligible component.
 
 The primary changes I've noticed in my body since migrating from dancing to weight-lifting and running have been:
